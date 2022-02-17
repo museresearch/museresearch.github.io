@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![UIUC](/images/home.jpg)
+![UIUC](/assets/images/home.jpg)
 
 # Mission
 
