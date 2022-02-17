@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+![UIUC](/images/home.jpg)
+
+# Mission
+
+# Approach
+
+# Process
