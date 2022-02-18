@@ -1,19 +1,19 @@
 ---
 layout: page
-title: People
+title: PEOPLE
 permalink: /people/
 ---
 
-# Professors:
+# **PROFESSORS**
 - Ewa Maslowska
 - Margaret Ng
 - Harsh Taneja
 
-# Graduate Students:
+# **GRADUATE STUDENTS**
 - Sakshi Bhalla
 - Rik Ray
 - Maggie Zhang
 - Dominic
 
-# Undergraduate Students:
+# **UNDERGRADUATE STUDENTS**
 - Ethan Grinberg

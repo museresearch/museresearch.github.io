@@ -22,9 +22,10 @@ title: MUSE
 email: muse@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Laboratory for studying Media Users and Consumers using interdisciplinary approaches Digital Methods
-baseurl: "/muse" # the subpath of your site, e.g. /blog
-url: "https://sumincho22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "muse" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
+linkedin_username: sumin-cho
 github_username: muse
 
 # Build settings

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Projects
+title: PROJECTS
 permalink: /projects/
 ---
 
-# Current
+# **CURRENT**
 
-# Past
+# **PAST**
