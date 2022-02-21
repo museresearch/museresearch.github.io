@@ -214,7 +214,13 @@
 /**
  * Posts
  */
+.title-header {
+  background-color: lightgray;
+  text-align: center;
+}
+
 .post-header {
+  margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
 }
 
@@ -257,9 +263,12 @@
 }
 
 /*
-  Modifications
+  Image
 */
-.page-header {
-  background: lightgray;
+
+img {
   width: 100%;
+  max-height: $spacing-unit * 20;
+  object-fit: cover;
+  object-position: 50% 50%;
 }
