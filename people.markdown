@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: people
 title: PEOPLE
 permalink: /people/
 ---
@@ -13,7 +13,8 @@ permalink: /people/
 - Sakshi Bhalla
 - Rik Ray
 - Maggie Zhang
-- Dominic
+- Dominic Jones
+![Dominic Jones](/assets/images/dominic_jones.jpeg)
 
 # **UNDERGRADUATE STUDENTS**
 - Ethan Grinberg
