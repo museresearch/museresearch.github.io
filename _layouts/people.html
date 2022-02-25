@@ -4,13 +4,19 @@ layout: default
 <article class="post">
 
   <div class="post-content">
+    {%- if site.baseurl -%}
+      {%- assign dir = "/{{ site.baseurl }}" -%}
+    {%- else -%}
+      {%- assign dir = "" -%}
+    {%- endif -%}
 
     <h1><b>PROFESSORS</b></h1>
 
     <div class="row">
         <div class="column">
           <div class="card">
-            <img src="https://media.illinois.edu/sites/default/files/2019-01/harsh.jpg" alt="Taneja" class="prof">
+
+            <img class="prof" src="{{ dir }}/assets/images/taneja.jpg" alt="Taneja">
             <div class="container">
               <h4 class="name">Harsh Taneja</h4>
               <p class="title">Professor</p>
@@ -23,7 +29,8 @@ layout: default
       
         <div class="column">
           <div class="card">
-            <img src="https://media.illinois.edu/sites/default/files/2019-01/ngyemanmargaret.jpg" alt="Ng" class="prof">
+
+            <img class="prof" src="{{ dir }}/assets/images/ng.jpg" alt="Ng">
             <div class="container">
               <h4 class="name">Margaret Ng</h4>
               <p class="title">Professor</p>
@@ -36,7 +43,8 @@ layout: default
       
         <div class="column">
             <div class="card">
-              <img src="https://media.illinois.edu/sites/default/files/2019-09/maslowska-200.jpg" alt="Maslowska" class="prof">
+              
+              <img class="prof" src="{{ dir }}/assets/images/maslowska.jpg" alt="Maslowska">
               <div class="container">
                 <h4 class="name">Ewa Maslowska</h4>
                 <p class="title">Professor</p>
@@ -53,7 +61,8 @@ layout: default
     <div class="row">
         <div class="column">
             <div class="card">
-              <img src="" alt="" class="prof">
+
+              <img class="prof" src="{{ dir }}/assets/images/bhalla.jpg" alt="Bhalla">
               <div class="container">
                 <h4 class="name">Sakshi Bhalla</h4>
                 <p class="title"></p>
@@ -66,7 +75,8 @@ layout: default
         
         <div class="column">
             <div class="card">
-              <img src="" alt="" class="prof">
+              
+              <img class="prof" src="{{ dir }}/assets/images/ray.jpg" alt="Ray">
               <div class="container">
                 <h4 class="name">Rik Ray</h4>
                 <p class="title"></p>
@@ -79,7 +89,8 @@ layout: default
         
         <div class="column">
             <div class="card">
-              <img src="" alt="" class="prof">
+              
+              <img class="prof" src="{{ dir }}/assets/images/zhang.jpg" alt="Zhang">
               <div class="container">
                 <h4 class="name">Maggie Zhang</h4>
                 <p class="title"></p>
@@ -89,19 +100,22 @@ layout: default
               </div>
             </div>
         </div>
+    </div>
 
-        <div class="column">
-            <div class="card">
-              <img src="" alt="" class="prof">
-              <div class="container">
-                <h4 class="name">Dominic Jones</h4>
-                <p class="title"></p>
-                <p>University of Illinois at Urbana-Champaign</p>
-                <p>dzjones2@illinois.edu</p>
-                <p><button class="button">VIEW</button></p>
-              </div>
-            </div>
+    <div class="row">
+      <div class="column">
+        <div class="card">
+          
+          <img class="prof" src="{{ dir }}/assets/images/jones.jpeg" alt="Jones">
+          <div class="container">
+            <h4 class="name">Dominic Jones</h4>
+            <p class="title"></p>
+            <p>University of Illinois at Urbana-Champaign</p>
+            <p>dzjones2@illinois.edu</p>
+            <p><button class="button">VIEW</button></p>
+          </div>
         </div>
+      </div>
     </div>
 
     <h1><b>UNDERGRADUATE STUDENTS</b></h1>
@@ -109,7 +123,8 @@ layout: default
     <div class="row">
         <div class="column">
             <div class="card">
-              <img src="" alt="" class="prof">
+              
+              <img class="prof" src="{{ dir }}/assets/images/grinberg.jpg" alt="Grinberg">
               <div class="container">
                 <h4 class="name">Ethan Grinberg</h4>
                 <p class="title"></p>

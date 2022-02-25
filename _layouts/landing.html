@@ -7,8 +7,11 @@
 
     {%- include header.html -%}
 
-    <!-- Find a way to replace muse -->
-    <img class="stretch" src="/muse/assets/images/home.jpg">
+    {%- if site.baseurl -%}
+      <img class="stretch" src="/{{ site.baseurl }}/assets/images/home.jpg">
+    {%- else -%}
+      <img class="stretch" src="/assets/images/home.jpg">
+    {%- endif -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
