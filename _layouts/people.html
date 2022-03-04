@@ -5,7 +5,7 @@ layout: default
 
   <div class="post-content">
     {%- if site.baseurl -%}
-      {%- assign dir = '/' | append: site.baseurl -%}
+      {%- assign dir = '/' | append: site.baseurl | append: '/' -%}
     {%- else -%}
       {%- assign dir = "" -%}
     {%- endif -%}
