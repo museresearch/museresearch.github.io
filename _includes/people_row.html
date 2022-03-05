@@ -1,0 +1,15 @@
+{%- for path in page_paths -%}
+{%- assign bio = site.pages | where: "path", path | first -%}
+<div class="column">
+    <div class="card">
+        <img class="prof" src="/assets/images/{{ bio.ref }}" alt="{{ bio.ref }}">
+        <div class="container">
+            <h4 class="name">{{ bio.full_name }}</h4>
+            <p class="title">{{ bio.title }}</p>
+            <p>{{ bio.school }}</p>
+            <p><a href="mailto:{{ bio.email }}">{{ bio.email }}</a></p>
+            <p><a href="{{ bio.permalink }}"><button class="button">VIEW</button></a></p>
+        </div>
+    </div>
+</div>
+{%- endfor -%}

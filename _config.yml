@@ -39,6 +39,20 @@ header_pages:
   - publications.markdown
   - getintouch.markdown
 
+# Bios (max 3 to a row)
+first_row: # Professors
+  - bios/maslowska.md
+  - bios/ng.md
+  - bios/taneja.md
+second_row: # Grad students
+  - bios/bhalla.md
+  - bios/jones.md
+  - bios/ray.md
+third_row:
+  - bios/zhang.md
+fourth_row: # Undergrad students
+  - bios/grinberg.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
