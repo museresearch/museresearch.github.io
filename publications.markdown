@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PUBLICATIONS
+title: Publications
 permalink: /publications/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GET IN TOUCH
+title: Get in Touch
 permalink: /getintouch/
 ---
 
