@@ -9,15 +9,22 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <header class="post-header">
+        <!-- Name -->
+        <header class="post-header" style="margin-top: 0;">
           <h1 class="post-title">{{ page.title | escape }}</h1>
         </header>
 
-        <div style="margin-bottom: 20px">
+        <!-- Photo -->
+        <div style="margin-bottom: 25px;">
           <img class="bio" src="/assets/images/{{ page.ref }}">
         </div>
 
+        <!-- Bio -->
         {{ content }}
+
+        <!-- Social -->
+        <h1>Reach me at:</h1>
+        <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
       </div>
     </main>
 
