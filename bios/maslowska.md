@@ -1,7 +1,7 @@
 ---
 layout: bio
 title: Ewa Maslowska
-position: Professor
+position: Assistant Professor
 school: University of Illinois at Urbana-Champaign
 email: ehm@illinois.edu
 permalink: /people/ewa-maslowska/

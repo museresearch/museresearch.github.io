@@ -1,7 +1,7 @@
 ---
 layout: bio
 title: Harsh Taneja
-position: Professor
+position: Associate Professor
 school: University of Illinois at Urbana-Champaign
 email: harsht@illinois.edu
 permalink: /people/harsh-taneja/

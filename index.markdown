@@ -6,11 +6,6 @@ layout: home
 title: MUSE
 ---
 
-# **MISSION**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are a collective for the study of media use. The word “media” is very broadly implied and we study how and why people behave as they do, especially as they engage with media. Within this canvas, we study the connections between globalization and internet users, those between algorithms and behaviors on social media usage. This has us venturing into how user behaviors impact other users - for example how important are user reviews for other consumers, or how and why people consume news and get exposed to misinformation. If we were to pin ourselves to a discipline, “media and communication” would be close.
 
-# **APPROACH**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-# **PROCESS**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Methodologically, our group is very diverse and we encourages methods (including mixed-methods) that are best suited for the questions at hand. We conduct interviews, analyze passively collected behavioral data, social media data, conduct online and offline experiments and surveys, as well as applied computational methods (machine learning, network analysis, text mining, etc).
