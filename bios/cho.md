@@ -7,4 +7,4 @@ email: suminc2@illinois.edu
 permalink: /people/sumin-cho/
 ref: grinberg.jpg
 ---
-Ethan is an undergraduate student majoring in computer science and advertising. He uses computational methods, including NLP and data science, for research in media psychology. He is currently investigating how algorithms affect how we receive and process news.
+Sumin is an undergraduate student majoring in computer science and advertising. He has created this website.
