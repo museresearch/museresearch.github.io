@@ -5,9 +5,8 @@ permalink: /getintouch/
 ---
 
 # **GRADUATE RESEARCH OPPORTUNITIES**
-We are always looking for new graduate stduents to work with us.
+We are always looking for new graduate stduents to join the group. The easiest is to write to any of the professors listed individually. For doctoral students, the group can be a space to bring your dissertation and other related work for feedback and collaboration. For MA/MS students,the lab can be an initiation into a community of with similar interests. We welcome inquiries from across campus.
 # **UNDERGRADUATE RESEARCH OPPORTUNITIES**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+We would love for undegraduate students who are curious about research,looking for a mentored research experience, or just want to check out what else we do at school beyond teaching classes.  
 # **CONTACT US**
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
