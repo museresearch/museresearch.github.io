@@ -4,10 +4,10 @@
     <div class="card">
         <img class="prof" src="/assets/images/{{ bio.ref }}" alt="{{ bio.ref }}">
         <div class="container">
-            <h4 class="name">{{ bio.title }}</h4>
+            <h4 class="name"><b>{{ bio.title }}</b></h4>
             <p class="title">{{ bio.position }}</p>
-            <p>{{ bio.school }}</p>
-            <p><a href="mailto:{{ bio.email }}">{{ bio.email }}</a></p>
+            <p class="desc">{{ bio.school }}</p>
+            <p class="desc"><a href="mailto:{{ bio.email }}">{{ bio.email }}</a></p>
             <p><a href="{{ bio.permalink }}"><button class="button">VIEW</button></a></p>
         </div>
     </div>
