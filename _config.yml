@@ -51,8 +51,8 @@ second_row: # Grad students
 third_row:
   - bios/zhang.md
 fourth_row: # Undergrad students
-  - bios/grinberg.md
   - bios/cho.md
+  - bios/grinberg.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
