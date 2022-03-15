@@ -1,7 +1,7 @@
 ---
 layout: bio
 title: Rik Ray
-position: Student
+position: PhD Student
 school: University of Illinois at Urbana-Champaign
 email: rikray2@illinois.edu
 permalink: /people/rik-ray/
