@@ -1,7 +1,7 @@
 ---
 layout: bio
 title: Maggie Zhang
-position: Student
+position: PhD Student
 school: University of Illinois at Urbana-Champaign
 email: mz44@illinois.edu
 permalink: /people/maggie-zhang/
