@@ -1,7 +1,7 @@
 ---
 layout: bio
 title: Harsh Taneja
-position: Associate Professor
+position: Associate Professor of New and Emerging Media
 school: University of Illinois at Urbana-Champaign
 email: harsht@illinois.edu
 permalink: /people/harsh-taneja/
