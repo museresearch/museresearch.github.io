@@ -1,7 +1,7 @@
 ---
 layout: bio
 title: Dominic Jones
-position: Student
+position: MS Student
 school: University of Illinois at Urbana-Champaign
 email: dzjones2@illinois.edu
 permalink: /people/dominic-jones/
