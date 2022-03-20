@@ -5,9 +5,12 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+  background-color: white;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .site-title {
