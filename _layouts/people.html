@@ -2,34 +2,16 @@
 layout: default
 ---
 <article class="post">
-
   <div class="post-content">
-    <h1><b>PROFESSORS</b></h1>
+    {%- for group in site.people -%}
+
+    <h1><b>{{ group.header | upcase }}</b></h1>
 
     <div class="row">
-      {%- assign page_paths = site.first_row -%}
-      {%- include people_row.html -%}
+      {%- assign page_paths = group.bios -%}
+      {%- include card_set.html -%}
     </div>
 
-    <h1><b>GRADUATE STUDENTS</b></h1>
-
-    <div class="row">
-      {%- assign page_paths = site.second_row -%}
-      {%- include people_row.html -%}
-    </div>
-
-    <div class="row">
-      {%- assign page_paths = site.third_row -%}
-      {%- include people_row.html -%}
-    </div>
-
-    <h1><b>UNDERGRADUATE STUDENTS</b></h1>
-
-    <div class="row">
-      {%- assign page_paths = site.fourth_row -%}
-      {%- include people_row.html -%}
-    </div>
-
+    {%- endfor -%}
   </div>
-
 </article>
