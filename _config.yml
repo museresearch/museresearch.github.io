@@ -61,6 +61,13 @@ people:
       - bios/cho.md
       - bios/grinberg.md
 
+# Projects
+projects:
+  - projects/proj1.md
+  - projects/proj2.md
+  - projects/proj3.md
+  - projects/proj4.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -279,6 +279,13 @@
   height: 25px;
 }
 
+.proj_img {
+  height: $spacing-unit * 6;
+  width: $spacing-unit * 6;
+  object-fit: cover;
+  object-position: 50% 25%;
+}
+
 /*
   People cards
 */
@@ -305,11 +312,24 @@
     padding: 0 0;
     display: block;
   }
+
+  .proj_img {
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 25%;
+  }
 }
 
 /* Add some shadows to create a card effect */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.horiz-container {
+  padding: 0 16px;
+  display: inline-block;
+  vertical-align: top;
+  width: 70%;
 }
 
 /* Some left and right padding inside the container */
@@ -337,6 +357,16 @@
 
 .desc {
   font-size: 14px;
+}
+
+.proj-desc {
+  font-size: 14px;
+  // overflow: hidden;
+  //  text-overflow: ellipsis;
+  //  display: -webkit-box;
+  //  -webkit-line-clamp: 3; /* number of lines to show */
+  //          line-clamp: 3; 
+  //  -webkit-box-orient: vertical;
 }
 
 .button {
