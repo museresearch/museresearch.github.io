@@ -282,10 +282,18 @@
   padding: 0 6px;
 }
 
+.overview {
+  float: left;
+  width: 100%;
+  margin-bottom: 16px;
+  padding: 0 0;
+}
+
 /* Display the columns below each other instead of side by side on small screens */
 @media screen and (max-width: 650px) {
   .column {
-    width: 97.5%;
+    width: 100%;
+    padding: 0 0;
     display: block;
   }
 }
@@ -308,8 +316,14 @@
 }
 
 .title {
-  font-size: 15px;
+  font-size: 14px;
   color: grey;
+
+  line-height: 1.5em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 100%;
 }
 
 .desc {

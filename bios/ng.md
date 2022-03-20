@@ -1,7 +1,7 @@
 ---
 layout: bio
 title: Margaret Ng
-position: Assistant Professor
+position: Assistant Professor of Journalism
 school: University of Illinois at Urbana-Champaign
 email: ymn@illinois.edu
 permalink: /people/margaret-ng/
