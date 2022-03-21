@@ -415,6 +415,13 @@
 .name {
   padding-top: 10px;
   margin-bottom: 0px;
+
+  // Limit to 1 line
+  line-height: 1.5em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 100%;
 }
 
 /*
