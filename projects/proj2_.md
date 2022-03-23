@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Project 2
-researchers: Person A, Person B & Person C
+researchers: Person X, Person Y & Person Z
 permalink: /projects/project-2/
 ref: logo.jpg
 ---
