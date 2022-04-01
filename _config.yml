@@ -63,10 +63,11 @@ people:
 
 # Projects
 projects:
-  - projects/comp-journalism.md
-  - projects/proj2.md
+  - projects/factcheckers.md
   - projects/proj3.md
   - projects/proj4.md
+  - projects/z.md
+  - projects/comp-journalism.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
