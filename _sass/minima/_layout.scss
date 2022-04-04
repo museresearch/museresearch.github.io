@@ -296,6 +296,7 @@
   width: $spacing-unit * 6;
   object-fit: cover;
   object-position: 50% 25%;
+  border-radius: 10px 0 0 10px;
 }
 
 /*
@@ -328,6 +329,7 @@
 /* Add some shadows to create a card effect */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
 }
 
 .horiz-card {
@@ -338,6 +340,7 @@
   width: 100%;
   margin-bottom: 16px;
   padding: 0 0;
+  border-radius: 10px;
 
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
@@ -407,7 +410,7 @@
   padding: 8px;
   color: white;
   background-color: black;
-  border-radius: 5px;
+  border-radius: 10px;
   text-align: center;
   cursor: pointer;
   width: 100%;
@@ -422,6 +425,7 @@
   width: 100%;
   object-fit: cover;
   object-position: 50% 25%;
+  border-radius: 10px 10px 0 0;
 }
 
 .name {
@@ -493,4 +497,9 @@
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
+}
+
+.end-tag {
+  color: grey;
+  font-size: 14px;
 }
