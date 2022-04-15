@@ -51,10 +51,10 @@ people:
     header: Graduate Students
     bios:
       - bios/bhalla.md
-      - bios/jones.md
       - bios/ray.md
       - bios/zhang.md
-
+      - bios/aarti_a.md
+      - bios/jones.md
   - section:
     header: Undergraduate Students
     bios:
