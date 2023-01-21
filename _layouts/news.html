@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article class="post">
+    <div class="post-content">
+        {%- for path in site.news -%}
+
+            {%- assign news = site.pages | where: "path", path | first -%}
+
+            {%- include news_post.html -%}
+
+        {%- endfor -%}    
+    </div>
+</article>

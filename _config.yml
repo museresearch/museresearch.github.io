@@ -36,6 +36,7 @@ header_pages:
   - people.markdown
   - projects.markdown
   - publications.markdown
+  - news.markdown
   - getintouch.markdown
 
 # Bios
@@ -69,6 +70,12 @@ projects:
   - projects/proj4.md
   - projects/z.md
   - projects/comp-journalism.md
+  
+# News
+news:
+  - news/nick-talk.md
+  - news/janaki-talk.md
+  - news/reiss-talk.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
