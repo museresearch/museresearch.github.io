@@ -1,8 +1,9 @@
 ---
 layout: project
-title: Project 3
-researchers: Person A, Person B & Person C
+title: Shield-Illinois
+researchers: Yee Man Margaret Ng, Ewa Maslowska & Harsh Taneja
 permalink: /projects/project-3/
 ref: logo.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Analyzing public attitudes, news framing, and diffusion networks related to shield illinois covid-19 testing through social media discourse and news coverage to understand its impact and inform best practices for future crises.
+https://museresearch.github.io/Shield-Illinois
