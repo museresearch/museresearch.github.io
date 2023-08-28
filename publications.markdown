@@ -8,6 +8,7 @@ permalink: /publications/
 + **[SHIELD Illinois Research Fund](https://media.illinois.edu/media-faculty-receive-shield-illinois-grant-study-public-attitudes-covid-19-testing) - $24,613**
 + **UIUC Center for Social and Behavioral Science Small Grant Program - $14,128**
 
+
 ## **Publications**
 
 # **2023**
@@ -23,9 +24,12 @@ permalink: /publications/
 
 # **Before 2020**
 
+
 ## **Conference Presentations**
 
 # **2023**
++ Zhang, M., & Ng, Y.M.M. (2023, August). Reality check: The effects of hiding dislikes on YouTube’s user behavior. Paper will be presented to Communication Technology Division of the Association for Education in Journalism and Mass Communication for its annual conference, Washington, DC.
++ Ng, Y.M.M., & Ray, R. (2023, June). The Twitter exodus: Negotiating the transition from Twitter to Mastodon among journalists. Paper presented to Mastodon research symposium. University of Warwick, United Kingdom (hybrid).
 + Zhang, M. and Ng, Y.M.M. (2023, May). Making social cues invisible: How the absence of public dislike counts affects YouTube users’ behavior. Paper presented to Communication & Technology Division of the International Communication Association for its annual conference, Toronto, Canada.
 
 # **2022**
