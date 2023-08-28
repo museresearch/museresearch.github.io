@@ -1,7 +1,7 @@
 ---
 layout: bio
 title: Ewa Maslowska
-position: Assistant Professor of Advertising
+position: Associate Professor of Advertising
 school: University of Illinois at Urbana-Champaign
 email: ehm@illinois.edu
 permalink: /people/ewa-maslowska/
