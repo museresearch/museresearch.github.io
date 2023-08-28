@@ -11,7 +11,7 @@ permalink: /publications/
 ## **Publications**
 
 # **2023**
-+ Zhang, M. & Ng, Y.M.M. (2023). Trending now: How do Twitter trends impact social and personal agendas? *International Journal of Communication.* (Accepted)
++ Zhang, M. & Ng, Y.M.M. (2023). Trending now: How do Twitter trends impact social and personal agendas? *International Journal of Communication*, 17. [https://ijoc.org/index.php/ijoc/article/view/20324/4094](https://ijoc.org/index.php/ijoc/article/view/20324/4094)
 + Ng, Y.M.M., & Taneja, H. (2023). Web use remains highly regional even in the age of global platform monopolies. *PLOS ONE*, 18, e0278594. [https://doi.org/10.1371/journal.pone.0278594](https://doi.org/10.1371/journal.pone.0278594)
 
 # **2022**
