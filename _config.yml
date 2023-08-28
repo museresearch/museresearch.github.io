@@ -47,6 +47,20 @@ people:
       - bios/maslowska.md
       - bios/ng.md
       - bios/taneja.md
+  - section:
+    header: Graduate Students
+    bios:
+      - bios/bhalla.md
+      - bios/ray.md
+      - bios/zhang.md
+  - section:
+    header: Previous Members
+    bios:
+      - bios/cho.md
+      - bios/grinberg.md
+      - bios/jones.md
+      - bios/aarti_a.md
+      - bios/anishaj.md
 
 # Projects
 projects:
