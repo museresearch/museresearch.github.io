@@ -54,21 +54,20 @@ people:
       - bios/bhalla.md
       - bios/ray.md
       - bios/zhang.md
-      - bios/aarti_a.md
-      - bios/anishaj.md
-      - bios/jones.md
-  - section:
-    header: Undergraduate Students
+      - bios/liu.md
+   - section:
+    header: Previous members
     bios:
       - bios/cho.md
       - bios/grinberg.md
+      - bios/jones.md
+      - bios/aarti_a.md
+      - bios/anishaj.md
 
 # Projects
 projects:
   - projects/factcheckers.md
   - projects/proj3.md
-  - projects/proj4.md
-  - projects/z.md
   - projects/comp-journalism.md
   
 # News
