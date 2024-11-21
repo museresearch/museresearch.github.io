@@ -54,7 +54,7 @@ people:
       - bios/ray.md
       - bios/zhang.md
       - bios/liu.md
-  -section:
+  - section:
     header: Undergraduate Students
     bios:
       - bios/amoghd.md
