@@ -54,6 +54,12 @@ people:
       - bios/ray.md
       - bios/zhang.md
       - bios/liu.md
+  -section:
+    header: Undergraduate Students
+    bios:
+      - bios/amoghd.md
+      - bios/andreib.md
+      - bios/faizs.md
   - section:
     header: Previous Members
     bios:
