@@ -1,14 +1,13 @@
 ---
 layout: project
-title: Guest Speaker - Ignacio Siles
-day: April 11, 2023
-permalink: /news/IgnacioSiles-talk/
-ref: ignaciotalk.jpg
+title: Who's Watching What on Indian TV? It's Complicated
+day: October 29, 2024
+permalink: /news/indian-tv-viewership-analysis/
+ref: indian-tv-image.jpg
+"Who's Watching What on Indian TV? It's Complicated"
 ---
-"Living with Algorithms: Agency and User Culture in Costa Rica"
-
 # Abstract
-What does it mean to live in a “datafied” society? Life in media-saturated contexts implies the increasing transformation of people’s experiences, relations, and identities into data. To make sense of this process, scholars have focused mostly on how algorithms give rise to new forms of power and control. Alternatively, in this talk I ask not what algorithms are doing to society but rather what people are doing with algorithms. I present research on the use of such algorithmic platforms as Netflix, Spotify, and TikTok in an understudied region of the global south (Costa Rica). I develop the framework of “mutual domestication” by examining the personal relationships that have formed between users and algorithms as Latin Americans have integrated these systems into the structures of everyday life, enacted them ritually, participated in public with and through them, and thwarted them. In this way, I provide a new perspective on the commonalities and differences among users within a global ecology of technologies.
+The Indian television landscape is a complex and diverse ecosystem, reflecting the country's vast cultural, linguistic, and regional diversity. However, current audience measurement systems are falling short in capturing the full spectrum of viewership patterns. This article explores the challenges of assessing exposure diversity in India, particularly in underrepresented regions such as small towns, rural areas, and states like Kashmir and the northeastern regions. It highlights the limitations of existing sample sizes, the influence of socio-economic demographics on advertising rates, and the need for local audience measurement systems to ensure regional content receives adequate attention. The article also discusses the implications of policy interventions and the role of regulatory frameworks in fostering a media environment that serves the public good. Check out the article: [text](https://thewire.in/media/whos-watching-what-on-indian-tv-its-complicated/?mid_related_new)
 
 # Bio
-Ignacio Siles (PhD, Northwestern University) is a professor of media and technology studies in the School of Communication and researcher in the Centro de Investigación en Comunicación (CICOM) at Universidad de Costa Rica. He is the author of “Living with Algorithms: Agency and User Culture in Costa Rica” (MIT Press, 2023), “A Transnational History of the Internet in Central America, 1985–2000” (2020, Palgrave Macmillan) and “Networked Selves: Trajectories of Blogging in the United States and France” (2017, Peter Lang), along with several articles on the relationship between technology, communication, and society. 
+Harsh Taneja is an Associate Professor of New and Emerging Media at the University of Illinois Urbana-Champaign. His research focuses on media audiences, digital platforms, and the intersection of technology and society. With a keen interest in understanding how media consumption patterns reflect broader social and cultural trends, Taneja has contributed to numerous studies on audience measurement and media diversity. He holds a PhD in Communication and has published extensively on the challenges of measuring media audiences in diverse and rapidly evolving media landscapes.
