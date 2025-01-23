@@ -54,6 +54,7 @@ people:
       - bios/ray.md
       - bios/zhang.md
       - bios/liu.md
+      - bios/yanbo.md
   - section:
     header: Undergraduate Students
     bios:
@@ -80,6 +81,8 @@ news:
   - news/nick-talk.md
   - news/janaki-talk.md
   - news/reiss-talk.md
+  - news/IgnacioSiles-talk.md
+  - news/JeremyFoote-talk.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
