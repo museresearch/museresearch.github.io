@@ -3,7 +3,7 @@ layout: project
 title: Guest Speaker - Ignacio Siles
 day: April 11, 2023
 permalink: /news/IgnacioSiles-talk/
-ref: ignacioflyer.png
+ref: ignaciotalk.jpg
 ---
 "Living with Algorithms: Agency and User Culture in Costa Rica"
 
