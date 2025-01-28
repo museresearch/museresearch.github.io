@@ -3,9 +3,10 @@ layout: project
 title: Who's Watching What on Indian TV? It's Complicated
 day: October 29, 2024
 permalink: /news/indian-tv-viewership-analysis/
-ref: indian-tv-image.jpg
-"Who's Watching What on Indian TV? It's Complicated"
+ref: taneja.jpg
 ---
+"Who's Watching What on Indian TV? It's Complicated"
+
 # Abstract
 The Indian television landscape is a complex and diverse ecosystem, reflecting the country's vast cultural, linguistic, and regional diversity. However, current audience measurement systems are falling short in capturing the full spectrum of viewership patterns. This article explores the challenges of assessing exposure diversity in India, particularly in underrepresented regions such as small towns, rural areas, and states like Kashmir and the northeastern regions. It highlights the limitations of existing sample sizes, the influence of socio-economic demographics on advertising rates, and the need for local audience measurement systems to ensure regional content receives adequate attention. The article also discusses the implications of policy interventions and the role of regulatory frameworks in fostering a media environment that serves the public good. Check out the article: [text](https://thewire.in/media/whos-watching-what-on-indian-tv-its-complicated/?mid_related_new)
 
