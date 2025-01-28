@@ -78,12 +78,14 @@ projects:
   
 # News
 news:
-  - news/nick-talk.md
+  - news/JeremyFoote-talk.md
+  - news/ewa-talk.md
+  - news/IgnacioSiles-talk.md
   - news/India-TV.md
+  - news/nick-talk.md
   - news/janaki-talk.md
   - news/reiss-talk.md
-  - news/IgnacioSiles-talk.md
-  - news/JeremyFoote-talk.md
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
