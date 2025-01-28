@@ -12,7 +12,7 @@ When chef and independent restaurateur Davide Cerretini first opened his restaur
 
 In this story of how one man took on his critics, Matthew Syed examines the role of online reviews - good and bad- in modern consumer culture and delves into whether the customer really is "always right".
 
-Featuring Davide Cerretini, restaurant critic Jay Rayner, Dr Jo Cohen and Ewa Maslowska. Listen to the podcast here: [text](https://www.bbc.co.uk/programmes/m001rym0) <br>
+Featuring Davide Cerretini, restaurant critic Jay Rayner, Dr Jo Cohen and Ewa Maslowska. Listen to the podcast here: [https://www.bbc.co.uk/programmes/m001rym0](https://www.bbc.co.uk/programmes/m001rym0) <br>
 
 # Bio
 Ewa earned her Ph.D. in Communication Science from the Persuasive Communication program at the University of Amsterdam. Her dissertation explored how personalized marketing communication influences consumers, taking situational and personal factors into account. She completed a postdoc in the Medill IMC Spiegel Digital & Database Research Center at Northwestern University, after which she became an Assistant Professor in the Amsterdam School of Communication Research. Ewa has been published in International Journal of Advertising, Computers in Human Behavior, Journal of Marketing Management, Decision Support Systems, and others. She is on the Editorial Review Boards of the International Journal of Advertising and the Journal of Interactive Advertising.
